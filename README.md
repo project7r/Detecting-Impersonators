@@ -13,6 +13,10 @@ filled with student’s information will store in a video file with student name
 unknown user tag on face admin can recheck and trace impersonators.
 
 
+Project Submitted by                                                          
+177R1A1243                                    
+177R1A1231                                                               
+177R1A1207                                                                     
 CMR Technical Campus                                                                        
 Department of INFORMATION TECHNOLOGY                                                    
 Under  guidance of Asst.prof A.Uday Kiran                                                               
