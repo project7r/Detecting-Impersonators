@@ -13,7 +13,7 @@ filled with student’s information will store in a video file with student name
 unknown user tag on face admin can recheck and trace impersonators.
 
 
-CMR Technical Campus
+CMR Technical Campus\n
 Department of INFORMATION TECHNOLOGY
 Under  guidance of Asst.prof A.Uday Kiran
 PRC : J.Narashima rao(Associate prof)
